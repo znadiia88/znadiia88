@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @znadiia88
-- 👀 I’m interested in runnig, reading.
+- DevOps
